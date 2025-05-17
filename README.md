@@ -1,60 +1,90 @@
+# 프로젝트 요약 테이블 추가하여 README 갱신
+readme_with_table = """
 # 👋 안녕하세요, 김지민입니다
 
-> 서버는 잘 돌렸고, 이제 모델도 잘 돌릴 차례죠.  
-> 백엔드에서 AI까지, 잠재력 증강 중 ...! 
+> 백엔드에서 시작해서 AI 모델까지 다루는 실전형 개발자  
+> 실사용 가능한 구조와 모델, 모두 직접 설계하고 만듭니다
 
 ---
 
-## 💡 Who Am I?
+## 💡 About Me
 
-- 백엔드부터 시작해서, 지금은 AI 모델까지 직접 다루는 개발자입니다.
-- 시스템 흐름 이해에 진심이고, API와 모델 사이에서 밸런스 맞추는 거 좋아합니다.
-- 삽질은 빨리 하고, 구조는 단단하게. 완성형 개발자를 목표로 달리는 중입니다.
-
----
-
-## 🔨 Tech Stack
-
-**Language**  
-`Python`, `JavaScript`, `SQL`
-
-**Framework / Library**  
-`FastAPI`, `Streamlit`, `LangChain`, `PyTorch`, `YOLO`, `HuggingFace Transformers`
-
-**Infra / Tools**  
-`Docker`, `ChromaDB`, `Git`, `Google Cloud`, `Kivy`
+- HIS 시스템부터 키오스크, 심리 진단, 작사 서비스까지 다양한 도메인에서 프로젝트 수행
+- 백엔드, 모델, UI까지 직접 연결해 구조 흐름을 주도하는 설계형 인재
+- 데이터와 모델은 쌓고, 결과는 돌아가게 만드는 사람
 
 ---
 
-## 📦 주요 프로젝트
+## 🧠 Skills
 
-### ☕ BaristAI - 얼굴을 기억하는 AI 바리스타
-> 고령층도 쉽게 쓸 수 있는 음성·얼굴 인식 기반 키오스크  
-🔧 Whisper STT, Google TTS, LangChain, face_recognition, FastAPI, Kivy  
-📌 실시간 대화, 추천, 응답 최적화까지 전방위 설계 및 구현
+**Languages**  
+Python, JavaScript, SQL, TypeScript, Java, HTML5
 
-### 🎨 DeePrint - 아동 미술 심리 분석
-> YOLO로 객체 감지 → Gemini + RAG로 심리 문장 생성  
-🔧 FastAPI, Streamlit, Gemini API, YOLO  
-📌 RAG를 활용한 자동 해석 문장 생성 
+**Frameworks & Tools**  
+FastAPI, Streamlit, React, Vue.js, Spring Boot, Git, Docker, Kivy
 
-### 🎵 BE MY MUSE - 작사 자동화 알고리즘
-> 가사 생성 + 감성 분석 + BLEU/ROUGE 평가까지  
-🔧 KoGPT2, KOTE, SVM, FastAPI  
-📌 크롤링부터 모델 파이프라인, 서비스 개발 전반 담당
+**AI & ML**  
+Whisper, GPT-4o, LangChain, YOLO, Gemini API, HuggingFace, KoGPT2
 
-### 🚌 T-래블 - 수도권 AI 여행 추천
-> 대중교통 + AI 기반 여행 루트 추천  
-🔧 Python, Pandas, Seaborn, 워드클라우드  
-📌 리뷰 데이터 분석, 여론 시각화
+**DB / Infra**  
+SQLite, MySQL, Oracle, ChromaDB, AWS, Linux
 
 ---
 
-## 🧠 내가 잘하는 것
+## 📊 Project Summary
 
-- **통합 설계**: 기획부터 백엔드, LLM, 프론트까지 전체 흐름을 구축할 수 있음
-- **속도와 최적화**: 느린 API는 죄, 응답 캐싱과 구조 튜닝으로 성능 확보
-- **실전주의**: 코드는 돌아야 예쁘다. 실사용 가능성까지 고려하는 개발자
+| 🌟 Project              | Duration              | Stack                                               | Link   |
+|------------------------|------------------------|------------------------------------------------------|--------|
+| 🎮 올라락! 깨구락!       | 2025.04 ~ 진행중        | FastAPI, Streamlit, Flux LoRA, HuggingFace          | 🔗Repo |
+| ☕ BaristAI             | 2025.03 ~ 2025.04      | Whisper, VAD, GPT-4o, LangChain, FastAPI, Kivy      | 🔗Repo |
+| 🏗 건설사고 예방 AI      | 2024.02 ~ 2024.03       | LangChain, HuggingFace, Python, Scikit-learn        | 🔗Repo |
+| 🧠 DeePrint            | 2025.02 ~ 2025.03       | YOLO, Gemini API, LangChain, RAG, Streamlit         | 🔗Repo |
+| 🎵 BE MY MUSE          | 2025.01 ~ 2025.02       | KoGPT-2, BERT, FastAPI, Scikit-learn                | 🔗Repo |
+| 🗺 T래블                 | 2024.12                 | Selenium, BeautifulSoup, Pandas, Okt, Kiwi          | 🔗Repo |
+
+---
+
+## 🧩 Project Highlights
+
+### 🎮 올라락! 깨구락! - AI 점프 텍스처 생성 게임  
+**기간**: 2025.04 ~ 진행중  
+**기술**: FastAPI, Streamlit, Flux LoRA  
+**내용**: 프롬프트 기반 텍스처 이미지 생성 → 실시간 게임 적용
+
+---
+
+### ☕ BaristAI - 얼굴을 기억하는 AI 바리스타  
+**기간**: 2025.03 ~ 2025.04  
+**기술**: Whisper, VAD, LangChain, GPT-4o, FastAPI, Kivy  
+**내용**: 음성 대화 기반 AI 키오스크, 얼굴 인식 + LLM 흐름 설계
+
+---
+
+### 🏗 건설사고 예방 및 대응책 생성  
+**기간**: 2024.02 ~ 2024.03  
+**기술**: LangChain, HuggingFace, Scikit-learn  
+**내용**: 건설 사고 데이터를 바탕으로 AI 대응 문장 생성
+
+---
+
+### 🧠 DeePrint - 아동 미술 심리 진단  
+**기간**: 2025.02 ~ 2025.03  
+**기술**: YOLO, Gemini API, RAG, FastAPI  
+**내용**: 아동 그림 내 객체 감지 → 해석 문장 자동화
+
+---
+
+### 🎵 BE MY MUSE - 작사 자동화 서비스  
+**기간**: 2025.01 ~ 2025.02  
+**기술**: KoGPT-2, BERT, SVM, FastAPI  
+**내용**: 감성 기반 가사 생성, BLEU/ROUGE 평가 자동화
+
+---
+
+### 🗺 T래블 - 수도권 여행 인사이트 시각화  
+**기간**: 2024.12  
+**기술**: Selenium, BeautifulSoup, Pandas, Okt, Kiwi  
+**내용**: 리뷰 데이터 기반 AI 여론 분석 및 추천 흐름 구성
 
 ---
 
@@ -62,20 +92,3 @@
 
 - Email: sokchokim@kakao.com  
 - GitHub: [https://github.com/sokcho-kim](https://github.com/sokcho-kim)
-
----
-
-## 📎 링크
-
-- BaristAI 백엔드: [github.com/Wanted-AI-project/Korean_AI_Kiosk_Agent](https://github.com/Wanted-AI-project/Korean_AI_Kiosk_Agent)
-- BaristAI 프론트: [github.com/wonjeonghwan/Kiosk_vision](https://github.com/wonjeonghwan/Kiosk_vision)
-- DeePrint: [github.com/potenup-3rd-team4/Deep_Learning](https://github.com/potenup-3rd-team4/Deep_Learning)
-- BE MY MUSE: [github.com/sokcho-kim/Two_Kim_and_One_Lee](https://github.com/sokcho-kim/Two_Kim_and_One_Lee)
-
----
-
-### 🥂 마지막으로
-
-> 백엔드에서 시작했지만, 거기서 멈출 생각은 없습니다.  
-> API는 내가 설계하고, 모델은 내가 굴립니다.  
-> 이제는 "서비스 전체를 이해하는 개발자"가 되고 싶습니다.
