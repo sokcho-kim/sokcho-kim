@@ -73,7 +73,7 @@ SQLite, MySQL, Oracle, ChromaDB, AWS, Linux
 ---
 
 ### 🎵 BE MY MUSE - 작사 자동화 서비스  
-**기간**: 2025.01.03 ~ 2025.02.03 
+**기간**: 2025.01.03 ~ 2025.02.03
 **기술**: KoGPT-2, BERT, SVM, FastAPI  
 **내용**: 감성 기반 가사 생성, BLEU/ROUGE 평가 자동화
 
