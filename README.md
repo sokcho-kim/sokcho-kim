@@ -34,11 +34,11 @@ SQLite, MySQL, Oracle, ChromaDB, AWS, Linux
 | 🌟 Project              | Duration              | Stack                                               | Link   |
 |------------------------|------------------------|------------------------------------------------------|--------|
 | 🎮 올라락! 깨구락!       | 2025.04 ~ 진행중        | FastAPI, Streamlit, Flux LoRA, HuggingFace          | 🔗Repo |
-| ☕ BaristAI             | 2025.03 ~ 2025.04      | Whisper, VAD, GPT-4o, LangChain, FastAPI, Kivy      | 🔗Repo |
-| 🏗 건설사고 예방 AI      | 2024.02 ~ 2024.03       | LangChain, HuggingFace, Python, Scikit-learn        | 🔗Repo |
-| 🧠 DeePrint            | 2025.02 ~ 2025.03       | YOLO, Gemini API, LangChain, RAG, Streamlit         | 🔗Repo |
-| 🎵 BE MY MUSE          | 2025.01 ~ 2025.02       | KoGPT-2, BERT, FastAPI, Scikit-learn                | 🔗Repo |
-| 🗺 T래블                 | 2024.12                 | Selenium, BeautifulSoup, Pandas, Okt, Kiwi          | 🔗Repo |
+| ☕ BaristAI             | 2025.03.06 ~ 2025.04.03      | Whisper, VAD, GPT-4o, LangChain, FastAPI, Kivy      | 🔗Repo |
+| 🏗 건설사고 예방 AI      | 2024.02.17 ~ 2024.03.24       | LangChain, HuggingFace, Python, Scikit-learn        | 🔗Repo |
+| 🧠 DeePrint            | 2025.02.20 ~ 2025.03.10       | YOLO, Gemini API, LangChain, RAG, Streamlit         | 🔗Repo |
+| 🎵 BE MY MUSE          | 2025.01.03 ~ 2025.02.03       | KoGPT-2, BERT, FastAPI, Scikit-learn                | 🔗Repo |
+| 🗺 T래블                 | 2024.1216 ~ 2024.12.30                 | Selenium, BeautifulSoup, Pandas, Okt, Kiwi          | 🔗Repo |
 
 ---
 
@@ -52,35 +52,35 @@ SQLite, MySQL, Oracle, ChromaDB, AWS, Linux
 ---
 
 ### ☕ BaristAI - 얼굴을 기억하는 AI 바리스타  
-**기간**: 2025.03 ~ 2025.04  
+**기간**: 2025.03.06 ~ 2025.04.03  
 **기술**: Whisper, VAD, LangChain, GPT-4o, FastAPI, Kivy  
 **내용**: 음성 대화 기반 AI 키오스크, 얼굴 인식 + LLM 흐름 설계
 
 ---
 
 ### 🏗 건설사고 예방 및 대응책 생성  
-**기간**: 2024.02 ~ 2024.03  
+**기간**: 2024.02.17 ~ 2024.03.24 
 **기술**: LangChain, HuggingFace, Scikit-learn  
 **내용**: 건설 사고 데이터를 바탕으로 AI 대응 문장 생성
 
 ---
 
 ### 🧠 DeePrint - 아동 미술 심리 진단  
-**기간**: 2025.02 ~ 2025.03  
+**기간**: 2025.02.20 ~ 2025.03.10  
 **기술**: YOLO, Gemini API, RAG, FastAPI  
 **내용**: 아동 그림 내 객체 감지 → 해석 문장 자동화
 
 ---
 
 ### 🎵 BE MY MUSE - 작사 자동화 서비스  
-**기간**: 2025.01 ~ 2025.02  
+**기간**: 2025.01.03 ~ 2025.02.03 
 **기술**: KoGPT-2, BERT, SVM, FastAPI  
 **내용**: 감성 기반 가사 생성, BLEU/ROUGE 평가 자동화
 
 ---
 
 ### 🗺 T래블 - 수도권 여행 인사이트 시각화  
-**기간**: 2024.12  
+**기간**: 2024.1216 ~ 2024.12.30  
 **기술**: Selenium, BeautifulSoup, Pandas, Okt, Kiwi  
 **내용**: 리뷰 데이터 기반 AI 여론 분석 및 추천 흐름 구성
 
