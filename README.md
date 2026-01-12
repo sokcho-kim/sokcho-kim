@@ -16,18 +16,24 @@ I specialize in converting unstructured "messy" data (Medical guidelines, Legal 
 
 ## ⚡ Featured Projects
 
-### **💊 Medical Insurance AI Agent (Production)**
-* **Problem:** Complex insurance review processes with scattered regulations.
-* **Solution:** Built a RAG system integrating **FastAPI** & **Vector Search** to provide evidence-based answers with citation.
-* **Impact:** Presented at **KHF 2025**. Reduced review time by automating regulation cross-checking.
+### **🏥 MedClaim (iHopper)**
+**AI-Powered Medical Insurance Review Agent**
+> [Live Service](https://medclaim.ihopper.co.kr/main) | [Featured in MedicalTimes](https://www.medicaltimes.com/Main/News/NewsView.html?ID=1165282) | [DBR Case Study](https://dbr.donga.com/kfocus/view/article_no/616)
+
+A commercial RAG solution addressing the complexity of Korean medical insurance standards.
+* **The Challenge:** Automating reviews based on constantly changing government notices (고시) and complex calculation rules.
+* **My Role:** Engineered the **Domain-Specific RAG Pipeline** handling messy regulation updates.
+* **Key Tech:**
+    * **Traceability:** Answers include direct citations (source/clause) and calculation logic.
+    * **Hybrid Search:** Orchestrated **OpenSearch** (Keyword) + **Qdrant** (Vector) for precise retrieval.
+    * **Impact:** Presented at **KHF 2025**; Successfully deployed for field usage.
 
 ### **🧬 Protein Structure & Drug Discovery (Research Interest)**
 * Exploring **Flow Matching with Transformers** to optimize protein folding models (beyond AlphaFold3).
 * Goal: High-throughput screening for drug discovery.
 
-## 🎯 Hackathon Goal
-I want to push the boundaries of **Claude Code**.
-Instead of simple coding assistance, I aim to build **self-correcting subagents** that handle the "boring but complex" parts of domain research and deployment.
+## 🎯 Why Hackathon? 
+I want to push the boundaries of **Claude Code**. I aim to build **self-maintaining subagents** that can autonomously track domain knowledge changes (like new laws or research papers) and update their own testing pipelines—automating the "ResearchOps" workflow.
 
 ---
 [LinkedIn](https://www.linkedin.com/in/%EC%A7%80%EB%AF%BC-%EA%B9%80-b8255827a/) 
