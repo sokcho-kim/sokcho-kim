@@ -16,7 +16,7 @@ I specialize in converting unstructured "messy" data (Medical guidelines, Legal 
 
 ## ⚡ Featured Projects
 
-### **🏥 MedClaim (iHopper)**
+### **🏥 MedClaim **
 **AI-Powered Medical Insurance Review Agent**
 > [Live Service](https://medclaim.ihopper.co.kr/main) | [Featured in MedicalTimes](https://www.medicaltimes.com/Main/News/NewsView.html?ID=1165282) | [DBR Case Study](https://dbr.donga.com/kfocus/view/article_no/616)
 
